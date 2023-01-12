@@ -29,8 +29,8 @@ Após um pequeno hiato na carreira de programação, passei a auxiliar na criaç
   
 Um pouco mais sobre mim:
 
-- 🔭 Trabalho como full stack PHP developer
-- 🌱 Estou aprendendo Angular
+- 🔭 Trabalho como full stack developer
+- 🌱 Utilizo principalmente PHP e Js, estou aprendendo Angular
 - 👯 Em busca de uma nova oportunidade no mercado de trabalho
 - 😄 Pronomes: Ele/dele
 
