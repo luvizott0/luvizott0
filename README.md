@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://github.com/luvizott0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvizott0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvizott0&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+### Olá, meu nome é Calebe Luvizotto. Bem vindo ao meu perfil 👋
+
+##
 
 <div align="center">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -17,8 +15,6 @@
 </div>
 
 ##
-
-### Bem vindo ao meu perfil 👋
   
 Meu nome é Calebe Luvizotto, tenho 21 anos. Estou no mercado de trabalho há cerca de 3 anos, desde que iniciei a faculdade em ciência da computação.
 Comecei como estagiário numa agência de marketing, criando sites principalmente com wordpress. Após sair da agência, peguei alguns projetos como freelancer e fiz alguns cursos para aprimorar meus conhecimentos.
