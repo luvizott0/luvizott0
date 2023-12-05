@@ -16,19 +16,21 @@
 
 ##
   
-Meu nome é Calebe Luvizotto, tenho 21 anos. Estou no mercado de trabalho há cerca de 3 anos, desde que iniciei a faculdade em ciência da computação.
+Meu nome é Calebe Luvizotto, tenho 22 anos. Estou no mercado de trabalho há cerca de 4 anos, desde que iniciei a faculdade em ciência da computação.
 Comecei como estagiário numa agência de marketing, criando sites principalmente com wordpress. Após sair da agência, peguei alguns projetos como freelancer e fiz alguns cursos para aprimorar meus conhecimentos.
 
-Após um pequeno hiato na carreira de programação, passei a auxiliar na criação de um sistema para saque de FGTS numa financeira de crédito (Creditus Financial Company). Atualmente estou buscando uma recolocação no mercado.
+Após um pequeno hiato na carreira de programação, passei a auxiliar na criação de um sistema para saque de FGTS numa financeira de crédito (Creditus Financial Company). 
+
+Já trabalhei também como analisa de infraestrutura no grupo JBS, mas descobri que minha paixão realmente era programação.
+
+Atualmente trabalho como desenvolvedor full stack, utilizando principalmente laravel + vue.
 
 ##
   
 Um pouco mais sobre mim:
 
-- 🔭 Trabalho como full stack developer
-- 🌱 Utilizo principalmente PHP e Js, estou aprendendo Angular
-- 👯 Em busca de uma nova oportunidade no mercado de trabalho
-- 😄 Pronomes: Ele/dele
+- 🔭 Trabalho como full stack
+- 🌱 Utilizo principalmente Laravel, estou aprendendo Angular
 
   <div align="center">
     <a href="https://instagram.com/calebe_luvizotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
