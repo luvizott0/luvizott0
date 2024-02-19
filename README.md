@@ -23,7 +23,7 @@ Após um pequeno hiato na carreira de programação, passei a auxiliar na criaç
 
 Já trabalhei também como analisa de infraestrutura no grupo JBS, mas descobri que minha paixão realmente era programação.
 
-Atualmente trabalho como desenvolvedor full stack, utilizando principalmente laravel + vue.
+Atualmente trabalho como desenvolvedor full stack, utilizando principalmente  vue + laravel.
 
 ##
   
@@ -33,6 +33,7 @@ Um pouco mais sobre mim:
 - Utilizo principalmente Vue.js e Laravel
 - Atualmente estou me direcionando mais para Frontend
 - Estou aprendendo angular
+- Tenho um rato anão russo chamado Stanislav
 
   <div align="center">
     <a href="https://instagram.com/calebe_luvizotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
