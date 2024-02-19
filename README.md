@@ -29,8 +29,10 @@ Atualmente trabalho como desenvolvedor full stack, utilizando principalmente lar
   
 Um pouco mais sobre mim:
 
-- 🔭 Trabalho como full stack
-- 🌱 Utilizo principalmente Laravel, estou aprendendo Angular
+- Trabalho como full stack
+- Utilizo principalmente Vue.js e Laravel
+- Atualmente estou me direcionando mais para Frontend
+- Estou aprendendo angular
 
   <div align="center">
     <a href="https://instagram.com/calebe_luvizotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
