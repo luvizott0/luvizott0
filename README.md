@@ -1,4 +1,4 @@
-### Olá, meu nome é Calebe Luvizotto. Bem vindo ao meu perfil 👋
+### Calebe Luvizotto. Welcome to my profile 👋
 
 ##
 
@@ -8,29 +8,14 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ##
   
-Meu nome é Calebe Luvizotto, tenho 22 anos. Estou no mercado de trabalho há cerca de 4 anos, desde que iniciei a faculdade em ciência da computação.
-Comecei como estagiário numa agência de marketing, criando sites principalmente com wordpress. Após sair da agência, peguei alguns projetos como freelancer e fiz alguns cursos para aprimorar meus conhecimentos.
-
-Após um pequeno hiato na carreira de programação, passei a auxiliar na criação de um sistema para saque de FGTS numa financeira de crédito (Creditus Financial Company). 
-
-Já trabalhei também como analisa de infraestrutura no grupo JBS, mas descobri que minha paixão realmente era programação.
-
-Atualmente trabalho como desenvolvedor full stack, utilizando principalmente  vue + laravel.
+Full Stack Developer with experience in building robust and scalable web solutions. Throughout my career, I have worked on both front-end and back-end, leveraging technologies like Node.js, Vue.js, PostgreSQL, and Laravel to deliver high-quality products. I am dedicated to continuously improving my skill set, staying up-to-date with industry best practices, and collaborating with cross-functional teams. I am driven by challenges that allow me to innovate and contribute to the technological growth of the company.
 
 ##
-  
-Um pouco mais sobre mim:
-
-- Trabalho como full stack
-- Utilizo principalmente Vue.js e Laravel
-- Atualmente estou me direcionando mais para Frontend
-- Estou aprendendo angular
-- Tenho um rato anão russo chamado Stanislav
-
   <div align="center">
     <a href="https://instagram.com/calebe_luvizotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/luvizotto" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
